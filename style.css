@@ -1,0 +1,68 @@
+.navbar{
+    background:#00A363;
+    height: 150px;
+   
+}
+.mainbody{
+    margin: 0;
+}
+.logo{
+    width: 115px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.navileft{
+    width: 50%;
+    height: 50%;
+}
+.naviright{
+    padding-left: 650px;
+    width: 50%;
+    height: 50%;
+}
+.product{
+    
+    color: #fff;
+    font-family: "Korolev";
+    font-weight: 500;
+    font-size: 22px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background: transparent;
+
+}
+.recipies{
+    padding-left: 20px;
+    color: #fff;
+    font-family: "Korolev";
+    font-weight: 500;
+    font-size: 22px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background: transparent;
+
+}
+.stores{
+    padding-left: 20px;
+    color: #fff;
+    font-family: "Korolev";
+    font-weight: 500;
+    font-size: 22px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background: transparent;
+
+}
+.navimgf{
+    width: 25px;
+    padding-left: 230px;
+    text-decoration: none;
+
+}
+.navimgi{
+    width: 25px;
+    padding-left: 5px;
+    text-decoration: none;
+
+}
