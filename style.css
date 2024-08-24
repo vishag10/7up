@@ -1,13 +1,15 @@
 .navbar{
-    background:#00A363;
-    height: 150px;
-   
+    background:#0f9715;
+    height: 113px;
+    width : 100%;
+    position: fixed;
+    border-bottom: 1px solid #fff;
 }
 .mainbody{
     margin: 0;
 }
 .logo{
-    width: 115px;
+    width: 80px;
     padding-left: 40px;
     padding-top: 20px;
 }
@@ -56,7 +58,7 @@
 }
 .navimgf{
     width: 25px;
-    padding-left: 230px;
+    padding-left: 220px;
     text-decoration: none;
 
 }
@@ -65,4 +67,13 @@
     padding-left: 5px;
     text-decoration: none;
 
+}
+
+.section1{
+    padding-top: 110px;
+    
+}
+.body1{
+    display: block;
+    unicode-bidi: isolate;
 }
