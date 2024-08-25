@@ -1,9 +1,10 @@
 .navbar{
-    background:#0f9715;
+    background:#24d50d;
     height: 113px;
     width : 100%;
     position: fixed;
     border-bottom: 1px solid #fff;
+    
 }
 .mainbody{
     margin: 0;
@@ -31,7 +32,7 @@
     font-size: 22px;
     text-decoration: none;
     text-transform: uppercase;
-    background: transparent;
+    
 
 }
 .recipies{
@@ -42,7 +43,7 @@
     font-size: 22px;
     text-decoration: none;
     text-transform: uppercase;
-    background: transparent;
+  
 
 }
 .stores{
@@ -53,7 +54,7 @@
     font-size: 22px;
     text-decoration: none;
     text-transform: uppercase;
-    background: transparent;
+    
 
 }
 .navimgf{
@@ -74,16 +75,33 @@
 }
 .body1{
    padding-top: 113px;
+display: flex;
 }
 .body2{
-  
+  display: flex;
 }
 .body3{
-  
+  display: flex;
 }
 .bodyimage{
         height: 100%;
         width: 100%;
         object-fit: cover;
       
+}
+.textbanner1{
+    position: absolute;
+    top: 33%;
+    left: 9%;
+    color: #fff;
+    
+}
+.textbannertxt1{
+    text-transform: uppercase;
+    font-family: 'korolev-rounded';
+    font-size: 4.5vw;
+    font-weight: 800;
+    line-height: 74px;
+    margin-bottom: 32px;
+    
 }
