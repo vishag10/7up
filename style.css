@@ -70,10 +70,20 @@
 }
 
 .section1{
-    padding-top: 110px;
-    
+
 }
 .body1{
-    display: block;
-    unicode-bidi: isolate;
+   padding-top: 113px;
+}
+.body2{
+  
+}
+.body3{
+  
+}
+.bodyimage{
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+      
 }
