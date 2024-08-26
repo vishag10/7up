@@ -4,6 +4,7 @@
     width : 100%;
     position: fixed;
     border-bottom: 1px solid #fff;
+    flex-direction: column;
     
 }
 .mainbody{
@@ -104,4 +105,59 @@ display: flex;
     line-height: 74px;
     margin-bottom: 32px;
     
+}
+.button-banner1{
+background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    font-family: 'korolev';
+    color: #ffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.textbanner2{
+position: absolute;
+    top: 40%;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.recipes-text-data{
+    width: 45%;
+    margin: auto;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+    padding: 10px 0 43px 0;
+    padding-top: 200px;
+    margin-top: 850px;
+}
+.text-banner-h3{
+    background: transparent;
+    text-transform: uppercase;
+    font-size: 25px;
+    color: white;
+    font-size: 19px;
+    font-family: 'korolev';
+    padding-top: 1px;
+}
+.text-p{
+    margin-bottom: 20px;
+    font-family: 'korolev';
+    font-size: 16px;
+    line-height: 2.8vh;
+    padding: 6px 25px;
+}
+.button-banner3{
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 7px 36px;
+    font-size: 15px;
+    color: white;
+    font-size: 19px;
+    font-family: 'korolev';
+
 }
