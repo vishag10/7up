@@ -61,29 +61,29 @@
 }
 .navimgf{
     width: 25px;
-    padding-left: 220px;
+    padding-left: 150px;
     text-decoration: none;
 
 }
 .navimgi{
     width: 25px;
-    padding-left: 5px;
+    padding-left: 2px;
     text-decoration: none;
 
 }
 
-.section1{
-
-}
 .body1{
    padding-top: 113px;
 display: flex;
+flex: 1;
 }
 .body2{
   display: flex;
+  flex: 1;
 }
 .body3{
   display: flex;
+  flex: 1;
 }
 .bodyimage{
         height: 100%;
@@ -133,17 +133,11 @@ position: absolute;
     border-radius: 100px;
     padding: 10px 0 43px 0;
     padding-top: 200px;
-    margin-top: 850px;
+    position: absolute;
+    margin-left: 380px;
+    margin-top: 230px;
     
 }
-.text-banner-h3{
-  
-   
-}
-.text-p{
-   
-}
-.button-banner3{
-   
-
+.recipes{
+    
 }
